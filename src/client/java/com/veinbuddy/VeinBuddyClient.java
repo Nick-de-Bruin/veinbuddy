@@ -88,7 +88,7 @@ import org.joml.Vector4f;
 public class VeinBuddyClient implements ClientModInitializer {
 
   private final static MinecraftClient mc = MinecraftClient.getInstance();
-  private final static int defaultDigRange = 7;
+  private final static int defaultDigRange = 5;
   private final static double speed = 0.2f;
   private final static double radius = 0.5;
   private final static double placeRange = 6.0;
